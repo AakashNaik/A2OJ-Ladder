@@ -28,7 +28,7 @@
 |<ul><li>- [ ] Done</li></ul>|21|[Tram](http://codeforces.com/problemset/problem/116/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|22|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
 |<ul><li>- [ok] Done</li></ul>|23|[Array](http://codeforces.com/problemset/problem/300/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|24|[Little Elephant and Chess](http://codeforces.com/problemset/problem/259/A)|Codeforces|2|
+|<ul><li>- [ OK] Done</li></ul>|24|[Little Elephant and Chess](http://codeforces.com/problemset/problem/259/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|25|[Dubstep](http://codeforces.com/problemset/problem/208/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|26|[Permutation](http://codeforces.com/problemset/problem/137/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|27|[Magic Numbers](http://codeforces.com/problemset/problem/320/A)|Codeforces|2|
